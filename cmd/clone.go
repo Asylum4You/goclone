@@ -11,11 +11,11 @@ import (
 
 	"os/exec"
 
-	"github.com/imthaghost/goclone/pkg/crawler"
-	"github.com/imthaghost/goclone/pkg/file"
-	"github.com/imthaghost/goclone/pkg/html"
-	"github.com/imthaghost/goclone/pkg/parser"
-	"github.com/imthaghost/goclone/pkg/server"
+	"github.com/Asylum4You/goclone/pkg/crawler"
+	"github.com/Asylum4You/goclone/pkg/file"
+	"github.com/Asylum4You/goclone/pkg/html"
+	"github.com/Asylum4You/goclone/pkg/parser"
+	"github.com/Asylum4You/goclone/pkg/server"
 )
 
 // Clone the given site :)
