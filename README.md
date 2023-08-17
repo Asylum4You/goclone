@@ -47,15 +47,15 @@ brew install goclone
 
 ```bash
 # Go version >= 1.20
-go install github.com/imthaghost/goclone/cmd/goclone@latest
+go install github.com/Asylum4You/goclone/cmd/goclone@latest
 ```
 #### Or
 
 ```bash
 # go get :)
-go get github.com/imthaghost/goclone
+go get github.com/Asylum4You/goclone
 # change to project directory using your GOPATH
-cd $GOPATH/src/github.com/imthaghost/goclone/cmd/goclone
+cd $GOPATH/src/github.com/Asylum4You/goclone/cmd/goclone
 # build and install application
 go install
 ```
