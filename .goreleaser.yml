@@ -64,5 +64,5 @@ brews:
           owner: imthaghost
           name: homebrew-goclone
       folder: Formula
-      homepage: https://github.com/imthaghost/goclone
+      homepage: https://github.com/Asylum4You/goclone
       description: Website Cloner - Utilizes powerful go routines to clone websites to your computer within seconds.
