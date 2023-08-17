@@ -1,4 +1,4 @@
-module github.com/imthaghost/goclone
+module github.com/Asylum4You/goclone
 
 go 1.20
 
