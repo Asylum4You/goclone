@@ -46,7 +46,7 @@ brew install goclone
 ### Manual
 
 ```bash
-# Go version >= 1.20
+# Go version >= 1.20go
 go install github.com/Asylum4You/goclone/cmd/goclone@latest
 ```
 #### Or
